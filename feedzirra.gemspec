@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
     "lib/feedzirra/parser/atom_entry.rb",
     "lib/feedzirra/parser/atom_feed_burner.rb",
     "lib/feedzirra/parser/atom_feed_burner_entry.rb",
+    "lib/feedzirra/parser/atom_person.rb",
     "lib/feedzirra/parser/itunes_rss.rb",
     "lib/feedzirra/parser/itunes_rss_item.rb",
     "lib/feedzirra/parser/itunes_rss_owner.rb",
