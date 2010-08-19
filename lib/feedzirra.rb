@@ -27,6 +27,7 @@ require 'feedzirra/parser/itunes_rss_owner'
 require 'feedzirra/parser/itunes_rss_item'
 require 'feedzirra/parser/atom_entry'
 require 'feedzirra/parser/atom_feed_burner_entry'
+require 'feedzirra/parser/atom_person'
 
 require 'feedzirra/parser/rss'
 require 'feedzirra/parser/itunes_rss'
